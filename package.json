@@ -1,0 +1,19 @@
+{
+  "name": "protractor-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor prot.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/protractor": "^4.0.0",
+    "jasmine-spec-reporter": "^6.0.0"
+  }
+}
